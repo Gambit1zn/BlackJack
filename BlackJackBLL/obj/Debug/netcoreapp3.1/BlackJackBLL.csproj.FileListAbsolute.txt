@@ -1,0 +1,9 @@
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\bin\Debug\netcoreapp3.1\BlackJackBLL.deps.json
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\bin\Debug\netcoreapp3.1\BlackJackBLL.dll
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\bin\Debug\netcoreapp3.1\BlackJackBLL.pdb
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\obj\Debug\netcoreapp3.1\BlackJackBLL.csprojAssemblyReference.cache
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\obj\Debug\netcoreapp3.1\BlackJackBLL.AssemblyInfoInputs.cache
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\obj\Debug\netcoreapp3.1\BlackJackBLL.AssemblyInfo.cs
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\obj\Debug\netcoreapp3.1\BlackJackBLL.csproj.CoreCompileInputs.cache
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\obj\Debug\netcoreapp3.1\BlackJackBLL.dll
+C:\Users\EthanA\Documents\Visual Studio 2019\BlackJack\BlackJack\BlackJackBLL\obj\Debug\netcoreapp3.1\BlackJackBLL.pdb

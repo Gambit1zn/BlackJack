@@ -49,7 +49,7 @@ namespace BlackJackBLL
 
         public void HitMe()
         {
-            if (!Stand || _total < 17)
+            if (!Stand && _total < 17)
             {
                 var card = DealCard(); //Dealer deals card to himself
 
